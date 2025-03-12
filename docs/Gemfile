@@ -2,7 +2,6 @@ source "https://rubygems.org"
 
 # Use the GitHub Pages gem to match the GitHub Pages environment
 gem "github-pages", group: :jekyll_plugins
-gem "minima"
 
 # Optional: Add other gems for local development
 gem "webrick", "~> 1.7" # Required for Ruby 3.0+ to serve the site locally
