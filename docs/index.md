@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 ## what we do
 
 We want to help decision makers understand the information and communications technology they are buying and using in their organisations. This feels like useful work given the ever-increasing importance of technology for delivering public services.
