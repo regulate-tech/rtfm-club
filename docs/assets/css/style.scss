@@ -1,0 +1,69 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Custom styles to override Hacker theme */
+body {
+  background: #ffffff;
+  background-image: none;
+  color: #000000;
+}
+
+header {
+  padding: 10px 20px; /* Reduce padding to make the header shorter */
+}
+
+header h1 {
+  color: #000000;
+}
+
+header h1:before {
+  color: #000000;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #000000;
+}
+
+a {
+  color: #0366d6;
+  text-shadow: none;
+  
+  &:hover {
+    color: #0246a2;
+  }
+}
+
+#main_content {
+  color: #000000;
+}
+
+code.highlighter-rouge {
+  background: #f6f8fa;
+  color: #24292e;
+  text-shadow: none;
+}
+
+.highlight {
+  background: #f6f8fa;
+  color: #24292e;
+  text-shadow: none;
+}
+
+/* Navigation styling */
+.site-nav {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.nav-link {
+  color: #000000;
+  text-decoration: none;
+  margin-right: 20px;
+  
+  &:hover {
+    color: #0366d6;
+    text-decoration: underline;
+  }
+}
