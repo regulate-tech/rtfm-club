@@ -6,4 +6,9 @@ permalink: /contact/
 
 ### Contact Information
 
-Please get in touch via email to rtfm [AT] ricallan.uk.
+You can sign up for news below or get in touch directly via email to rtfm [AT] ricallan.uk
+
+### Newsletter ###
+
+<div class="ml-embedded" data-form="NDc4e7"></div>
+
