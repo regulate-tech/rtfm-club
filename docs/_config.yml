@@ -1,3 +1,4 @@
 title: RTFM Club
-description: Testing a simple site hosted on GitHub Pages
+description: Regulate Tech For Managers
 theme: jekyll-theme-hacker
+permalink: /posts/:year/:month/:day/:title/
