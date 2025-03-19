@@ -1,4 +1,5 @@
 title: RTFM Club
 description: Regulate Tech For Managers
+source: docs
 theme: jekyll-theme-hacker
 permalink: /posts/:year/:month/:day/:title/
