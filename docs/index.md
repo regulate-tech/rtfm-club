@@ -2,18 +2,50 @@
 layout: default
 title: Home
 ---
+-----
 
-## what we do
+### Welcome to the RTFM Club.
 
-We want to help decision makers understand the information and communications technology they are buying and using in their organisations. This feels like useful work given the ever-increasing importance of technology for delivering public services.
+(No, not that one. Ours stands for **Regulate Tech For Managers**.)
 
-## how we work
+We’re here to help public services buy and use technology that *actually* works.
 
-We will set up projects that build datasets and analytical tools for particular areas of technology use in public services. We hope these will be useful resources that feed into discussions about service improvements.
+-----
 
-## who we are
-This service has been set up by Richard Allan who has worked in technology and policy for over 25 years.
+### 🤔 What's the big idea?
 
-## projects
+You know the story. We all carry supercomputers in our pockets, making it easy to share cat videos or order a taxi in seconds. That tech is fast, cheap, and simple.
 
-We worked on a pilot project looking at technology in the UK health and care sector in the latter part of 2024 and have published this at [nhstech.uk/paperless](https://nhstech.uk/paperless.html).
+So why, when a nurse tries to check a patient record, are they fighting with a system that feels like a clunky, overpriced Nokia from twenty years ago?
+
+It's absurd. Public services end up with slow, baffling tech that staff hate using, and taxpayers pay a fortune for it.
+
+The RTFM Club is here to fix this. We dig into the details (we’re the ones who *actually* read the manual!) so that managers can make better, smarter choices.
+
+**Our goal: Make public tech simple, useful, and at least as good as the app you use for your weekly shop.**
+
+-----
+
+### 🛠️ How we do it
+
+We’re data detectives. We run projects that uncover what’s really happening with tech in a specific area (like the health service or local government).
+
+We don't write 200-page, dust-gathering reports. We build straightforward guides, maps, and tools that show what works, what doesn't, and why. No jargon, just clear answers to simple questions.
+
+-----
+
+### 🧔 Who's behind this?
+
+The club was set up by **Richard Allan**.
+
+After more than 25 years of trying to connect the worlds of tech and politics—working in Parliament, at big tech companies, and now as a regulator (he's on the Board of Ofcom)—he decided it was time to build a "friendly manual" for public service tech.
+
+-----
+
+### 🚀 Our First Case: The NHS
+
+We started by diving into the tech used in health and care, asking what a lack of progress on "going paperless" *really* costs.
+
+**See what we uncovered at: [nhstech.uk/paperless](https://nhstech.uk/paperless)**
+
+-----
