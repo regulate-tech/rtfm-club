@@ -1,10 +1,9 @@
 ---
 layout: default
-title: Home
+title: RTFM Club
 ---
------
 
-### Welcome to the RTFM Club.
+### Welcome to the RTFM Club
 
 (No, not that one. Ours stands for **Regulate Tech For Managers**.)
 
@@ -36,7 +35,7 @@ We don't write 200-page, dust-gathering reports. We build straightforward guides
 
 ### 🧔 Who's behind this?
 
-The club was set up by **Richard Allan**.
+The club was set up by [**Richard Allan**](https://www.linkedin.com/in/ricallan/).
 
 After more than 25 years of trying to connect the worlds of tech and politics—working in Parliament, at big tech companies, and now as a regulator (he's on the Board of Ofcom)—he decided it was time to build a "friendly manual" for public service tech.
 
@@ -46,6 +45,6 @@ After more than 25 years of trying to connect the worlds of tech and politics—
 
 We started by diving into the tech used in health and care, asking what a lack of progress on "going paperless" *really* costs.
 
-**See what we uncovered at: [nhstech.uk/paperless](https://nhstech.uk/paperless)**
+**See what we uncovered at: [nhstech.uk/paperless](https://nhstech.uk/paperless.html)**
 
 -----
